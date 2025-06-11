@@ -19,7 +19,7 @@
 - Spring Boot 등 웹 애플리케이션 개발 기초 학습  
 
 ## 내용 ✍️
-[📁Java Study](https://github.com/kimsm0405/Java/tree/main/Java%20Study)
+## [📁Java Study](https://github.com/kimsm0405/Java/tree/main/Java%20Study)
 
 [2. 연산자, 조건문](https://github.com/kimsm0405/Java/tree/main/Java%20Study/2)
 
