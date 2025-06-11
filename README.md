@@ -19,19 +19,19 @@
 - Spring Boot 등 웹 애플리케이션 개발 기초 학습  
 
 ## 내용 ✍️
-📁Java Study
+[📁Java Study](https://github.com/kimsm0405/Java/tree/main/Java%20Study)
 
-2 연산자, 조건문
+[2 연산자, 조건문](https://github.com/kimsm0405/Java/tree/main/Java%20Study/2)
 
-3 반복문, 배열, 예외처리
+[3 반복문, 배열, 예외처리](https://github.com/kimsm0405/Java/tree/main/Java%20Study/3)
 
-4 클래스와 객체
+[4 클래스와 객체](https://github.com/kimsm0405/Java/tree/main/Java%20Study/4)
 
-5 상속
+[5 상속](https://github.com/kimsm0405/Java/tree/main/Java%20Study/5)
 
-6 모듈과 패키지 개념 (JAVA 기본 패키지)
+[6 모듈과 패키지 개념 (JAVA 기본 패키지)](https://github.com/kimsm0405/Java/tree/main/Java%20Study/6)
 
-7 제네릭과 컬렉션
+[7 제네릭과 컬렉션](https://github.com/kimsm0405/Java/tree/main/Java%20Study/7)
 
-8 입출력 스트림과 파일 입출력
+[8 입출력 스트림과 파일 입출력](https://github.com/kimsm0405/Java/tree/main/Java%20Study/8)
 
